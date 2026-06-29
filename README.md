@@ -61,7 +61,7 @@ Before assembly, extensive research was performed to ensure system stability and
 
 ---
 
-## 🔧 Assembly Process
+## Assembly Process
 
 ### 1. CPU Installation
 - Installed Ryzen 5 5600 into AM4 socket
@@ -173,7 +173,7 @@ After first boot, BIOS settings were optimized:
 
 ---
 
-## 📌 Summary
+## Summary
 
 This build demonstrates full-cycle PC development including:
 
